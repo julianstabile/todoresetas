@@ -1,0 +1,25 @@
+main {
+    padding: 20px;
+}
+
+#inicio {
+    text-align: center;
+}
+
+.recetas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.receta {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 300px;
+}
+
+.receta img {
+    width: 100%;
+    height: auto;
+}
