@@ -73,6 +73,14 @@ main {
   height: auto;
 }
 
+.ver-receta {
+  padding: 10px 20px;
+  background-color: #ff6600;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
 .newsletter form {
   margin-bottom: 20px;
 }
